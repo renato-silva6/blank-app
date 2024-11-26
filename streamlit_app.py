@@ -9,3 +9,5 @@ st.button("Click me")
 st.checkbox("I agree")
 st.pills("Tags", ["Sports", "Politics"])
 st.radio("Pick one", ["cats", "dogs"])
+
+st.feedback("stars")
